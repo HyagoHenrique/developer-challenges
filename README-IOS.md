@@ -32,6 +32,12 @@ The project also includes **CocoaPods** and **Firebase Crashlytics + Analytics**
   - ViewModel tests using mocks (no real network/database)
 - **Unit tests with Swift Testing**
   - ViewModel tests using mocks (no real network/database)
+  
+---
+
+## Firebase project
+Access using the Google account registered in the Firebase project.
+[Link](https://console.firebase.google.com/project/dynamoxquizchallenge/overview)
 
 ---
 
